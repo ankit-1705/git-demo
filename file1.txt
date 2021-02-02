@@ -1,4 +1,6 @@
 Hello this the first file.
 
 revert
+merge
+
 this is second line
